@@ -1,0 +1,6 @@
+D:\Projects\EasyOffice\EasyOffice-Access\bin\Debug\EasyOffice-Access.dll
+D:\Projects\EasyOffice\EasyOffice-Access\bin\Debug\EasyOffice-Access.pdb
+D:\Projects\EasyOffice\EasyOffice-Access\obj\Debug\EasyOffice-Access.csproj.AssemblyReference.cache
+D:\Projects\EasyOffice\EasyOffice-Access\obj\Debug\EasyOffice-Access.csproj.CoreCompileInputs.cache
+D:\Projects\EasyOffice\EasyOffice-Access\obj\Debug\EasyOffice-Access.dll
+D:\Projects\EasyOffice\EasyOffice-Access\obj\Debug\EasyOffice-Access.pdb

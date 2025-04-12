@@ -1,0 +1,9 @@
+D:\Projects\EasyOffice\EasyOffice-Business\obj\Debug\EasyOffice-Business.csproj.AssemblyReference.cache
+D:\Projects\EasyOffice\EasyOffice-Business\obj\Debug\EasyOffice-Business.csproj.CoreCompileInputs.cache
+D:\Projects\EasyOffice\EasyOffice-Business\bin\Debug\EasyOffice-Business.dll
+D:\Projects\EasyOffice\EasyOffice-Business\bin\Debug\EasyOffice-Business.pdb
+D:\Projects\EasyOffice\EasyOffice-Business\bin\Debug\EasyOffice-Access.dll
+D:\Projects\EasyOffice\EasyOffice-Business\bin\Debug\EasyOffice-Access.pdb
+D:\Projects\EasyOffice\EasyOffice-Business\obj\Debug\EasyOffi.343732D7.Up2Date
+D:\Projects\EasyOffice\EasyOffice-Business\obj\Debug\EasyOffice-Business.dll
+D:\Projects\EasyOffice\EasyOffice-Business\obj\Debug\EasyOffice-Business.pdb

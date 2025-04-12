@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\EasyOffice\\EasyOffice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DE3E6D-141A-4BF4-AC2B-C4D848752A6B}|EasyOffice.csproj|d:\\projects\\easyoffice\\easyoffice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3DE3E6D-141A-4BF4-AC2B-C4D848752A6B}|EasyOffice.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD305E79-EE57-4FD3-A16E-20AF3644B2AF}|..\\EasyOffice-Business\\EasyOffice-Business.csproj|d:\\projects\\easyoffice\\easyoffice-business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5A4C1A-0EC0-4651-B414-DD05882D4798}|..\\EasyOffice-Access\\EasyOffice-Access.csproj|d:\\projects\\easyoffice\\easyoffice-access\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DE3E6D-141A-4BF4-AC2B-C4D848752A6B}|EasyOffice.csproj|d:\\projects\\easyoffice\\easyoffice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DE3E6D-141A-4BF4-AC2B-C4D848752A6B}|EasyOffice.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DE3E6D-141A-4BF4-AC2B-C4D848752A6B}|EasyOffice.csproj|d:\\projects\\easyoffice\\easyoffice\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DE3E6D-141A-4BF4-AC2B-C4D848752A6B}|EasyOffice.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\EasyOffice\\EasyOffice\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Projects\\EasyOffice\\EasyOffice\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:33:52.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\EasyOffice\\EasyOffice\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Projects\\EasyOffice\\EasyOffice\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:33:43.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "D:\\Projects\\EasyOffice\\EasyOffice-Access\\Class2.cs",
+              "RelativeDocumentMoniker": "..\\EasyOffice-Access\\Class2.cs",
+              "ToolTip": "D:\\Projects\\EasyOffice\\EasyOffice-Access\\Class2.cs",
+              "RelativeToolTip": "..\\EasyOffice-Access\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:31:38.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Projects\\EasyOffice\\EasyOffice-Business\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\EasyOffice-Business\\Class1.cs",
+              "ToolTip": "D:\\Projects\\EasyOffice\\EasyOffice-Business\\Class1.cs",
+              "RelativeToolTip": "..\\EasyOffice-Business\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:29:21.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\EasyOffice\\EasyOffice\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Projects\\EasyOffice\\EasyOffice\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:28:17.494Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
